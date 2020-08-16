@@ -53,4 +53,4 @@ I love to work with new technologies and playing with Data and AI.🤖
    </li>
 </ul>
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=harunshimanto&show_icons=true" alt="harunshimanto" /> </h1>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=CREVIOS&show_icons=true" alt="CREVIOS" /> </h1>
