@@ -19,7 +19,7 @@ Currently, I am a highly school student at Notre Dame College Dhaka.
 I'm interested in doing research on Deep learning and Ml. 
 I love to work with new technologies and playing with Data and AI.🤖
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=harunshimanto" alt="harunshimanto" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=CREVIOS" alt="CREVIOS" /> </p>
 
 ## {...} My Stack
 
