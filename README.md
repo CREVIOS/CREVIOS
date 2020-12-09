@@ -1,6 +1,6 @@
 <h3 align="center">Hi there 👋</h3>
 <hr>
-<h2 align="center"><i>Md.Sadek Hossain asif</i></h2>:wave:
+<h2 align="center"><i>Md.Sadek Hossain asif</i></h2>
 
 [![Gmail](https://img.shields.io/badge/%20-Send%20Mail-black?color=14171A&labelColor=ef5350&logo=gmail&logoColor=ffffff)](mailto:asifsadek509@gmail.com)
 [![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/harun-ur-rashid6647/)
@@ -21,7 +21,7 @@ I love to work with new technologies and playing with Data and AI.🤖
 ```json
 {
    "languages": ["Python", "C++","Julia],
-   "backend": ["Node Js"],
+   "backend": ["Node_Js"],
    "frontend": ["html", "css"],
    "databases": ["firebase","Mongodb","Sql"],
    "ai framework":["Keras","PyTorch","Scikit-learn","Tensorflow"]
