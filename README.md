@@ -33,6 +33,12 @@ I love to work with new technologies and playing with Data and AI.🤖
    "experimenting": ["Django", "Heroku"]
 }
 ```
+
+![](https://media4.giphy.com/media/ZFtvuSCT2fGVl34Wpi/200w.webp?cid=ecf05e47tnqsko52jq3bqmt8dtyxtthfl35bjh157frgrovb&rid=200w.webp)
+
+## {===} My stat
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CREVIOS&layout=compact&theme=dark&hide=html&langs_count=10)](https://github.com/CREVIOS/github-readme-stats) ![ASIF's github stats](https://github-readme-stats.vercel.app/api?username=CREVIOS&count_private=true&theme=dark&show_icons=true&include_all_commits=true&show_owner=true)
+
 ## :tada: Achievements
 
 <ul>
