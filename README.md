@@ -1,8 +1,6 @@
-### Hi there 👋
-
-<a target="_blank" href="https://harunshimanto.github.io/"><img width="550" align="right" src="https://careers.eclerx.com/images/01.jpg"></a>
-
-# Md.Sadek Hossain asif
+<h3 align="center">Hi there 👋</h3>
+<hr>
+<h2 align="center"><i>Md.Sadek Hossain asif</i></h2>:wave:
 
 [![Gmail](https://img.shields.io/badge/%20-Send%20Mail-black?color=14171A&labelColor=ef5350&logo=gmail&logoColor=ffffff)](mailto:asifsadek509@gmail.com)
 [![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/harun-ur-rashid6647/)
@@ -22,19 +20,16 @@ I love to work with new technologies and playing with Data and AI.🤖
 
 ```json
 {
-   "languages": ["Python", "Java"],
-   "backend": ["Django","Flask"],
+   "languages": ["Python", "C++","Julia],
+   "backend": ["Node Js"],
    "frontend": ["html", "css"],
-   "databases": ["mysql","postgresql"],
-   "ai framework":["Keras","PyTorch","Scikit-learn","PySpark"],
-   "experimenting": ["Django", "Heroku"]
+   "databases": ["firebase","Mongodb","Sql"],
+   "ai framework":["Keras","PyTorch","Scikit-learn","Tensorflow"]
+
 }
 ```
-
-![](https://media4.giphy.com/media/ZFtvuSCT2fGVl34Wpi/200w.webp?cid=ecf05e47tnqsko52jq3bqmt8dtyxtthfl35bjh157frgrovb&rid=200w.webp)
-
 ## :tada: {O_o} My stat
-<center>
-   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CREVIOS&layout=compact&theme=dark&hide=html&langs_count=10)](https://github.com/CREVIOS/github-readme-stats) ![ASIF's github stats](https://github-readme-stats.vercel.app/api?username=CREVIOS&count_private=true&theme=dark&show_icons=true&include_all_commits=true&show_owner=true)
-</center>
+![](https://media4.giphy.com/media/ZFtvuSCT2fGVl34Wpi/200w.webp?cid=ecf05e47tnqsko52jq3bqmt8dtyxtthfl35bjh157frgrovb&rid=200w.webp)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CREVIOS&layout=compact&theme=dark&hide=html&langs_count=10)](https://github.com/CREVIOS/github-readme-stats) ![ASIF's github stats](https://github-readme-stats.vercel.app/api?username=CREVIOS&count_private=true&theme=dark&show_icons=true&include_all_commits=true&show_owner=true)
+
 
