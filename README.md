@@ -8,11 +8,7 @@
 [![Kaggle Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=37474f&logo=kaggle&logoColor=4fc3f7)](#)
 
 
-:wave: Hi there, My name is Md.Sadek Hossain Asif.😀 I'm 18 years old, I'm a self-taught Ml and Programming.
-I've profound knowledge in Machine Learning, Deep Learning, Natural language processing.
-Currently, I am a highly school student at Notre Dame College Dhaka.
-I'm interested in doing research on Deep learning and Ml. 
-I love to work with new technologies and playing with Data and AI.🤖
+:wave: Hi.
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=CREVIOS" alt="CREVIOS" /> </p>
 
